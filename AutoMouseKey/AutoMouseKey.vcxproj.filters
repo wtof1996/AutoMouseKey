@@ -6,6 +6,5 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="clicker.h" />
-    <ClInclude Include="singleton.h" />
   </ItemGroup>
 </Project>

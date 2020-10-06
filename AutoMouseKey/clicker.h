@@ -12,8 +12,6 @@
 #include <Windows.h>
 
 
-#include "singleton.h"
-
 enum class KeyType
 {
 	LeftKey = 0,

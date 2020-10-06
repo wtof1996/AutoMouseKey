@@ -1,6 +1,4 @@
 #include "clicker.h"
-#include "singleton.h"
-
 
 #include <iostream>
 #include <random>
